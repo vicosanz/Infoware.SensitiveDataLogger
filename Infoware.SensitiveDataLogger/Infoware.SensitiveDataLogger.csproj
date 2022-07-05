@@ -4,6 +4,12 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Authors>Victor Sanchez</Authors>
+    <Company>Infoware Soluciones</Company>
+    <Description>Prevent expose sensitive data when log objects serialized to json</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/vicosanz/Infoware.SRI</RepositoryUrl>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
