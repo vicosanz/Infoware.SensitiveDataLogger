@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "Infoware.SensitiveDataLogger.sln",
+    "projects": [
+      "Infoware.SensitiveDataLogger\\Infoware.SensitiveDataLogger.csproj"
+    ]
+  }
+}

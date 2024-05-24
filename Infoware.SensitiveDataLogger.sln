@@ -7,9 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infoware.SensitiveDataLogge
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{30E84830-F2E3-4B51-ADB7-9A7F7373B529}"
 	ProjectSection(SolutionItems) = preProject
+		ci.slnf = ci.slnf
 		.github\workflows\main.yml = .github\workflows\main.yml
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{F2979A82-E157-4681-85FC-8AFEFC5BF27C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +24,10 @@ Global
 		{109F9E6D-5D0A-4E4D-803C-3952C22C684B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{109F9E6D-5D0A-4E4D-803C-3952C22C684B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{109F9E6D-5D0A-4E4D-803C-3952C22C684B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2979A82-E157-4681-85FC-8AFEFC5BF27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2979A82-E157-4681-85FC-8AFEFC5BF27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2979A82-E157-4681-85FC-8AFEFC5BF27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2979A82-E157-4681-85FC-8AFEFC5BF27C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
